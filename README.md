@@ -4,7 +4,7 @@
 I am a developer who began my journey at age 12.
 I have tried my hand at a range of fields, including data science and cybersecurity audits. I am not afraid to learn new things and dive into new challenges. Currently, my main focus is on my project `DiffusedMarket`, a decentralized ecosystem for NFT generation, minting, and trading.
 
-I'm particularly interested in blockchain technologies, especially web3. I have completed a Full Stack Web3 Development course and am currently enrolled in the Alchemy [Road to Web3](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3) and [Ethereum Developer Bootcamp](https://university.alchemy.com/overview/ethereum).
+I'm particularly interested in blockchain technologies, especially web3. I have completed a [Full Stack Web3 Development](https://www.youtube.com/watch?v=gyMwXuJrbJQ) course and am currently enrolled in the Alchemy [Road to Web3](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3) and [Ethereum Developer Bootcamp](https://university.alchemy.com/overview/ethereum).
 
 I am always open to discussion and collaboration, so feel free to connect with me through the provided social media links. I enjoy working with like-minded individuals and the positive, competitive atmosphere of web3. As an example, our team DisputeOnChain recently won second place in the [HackOnChain](https://app.poap.xyz/scan/0x1991e23eEDfb858569532cBF8BF4bd63d89c1abA) hackathon. We worked with Q token and dispute resolution and had a great time.
 
